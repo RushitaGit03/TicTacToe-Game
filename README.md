@@ -1,5 +1,7 @@
 # 🎮 Tic Tac Toe (Java Swing)
 
+![Views](https://komarev.com/ghpvc/?username=rushitaamrute&repo=TicTacToe-Game&color=blue&style=flat)
+
 This is my first project built using *Java Swing*.  
 It’s a simple two-player Tic Tac Toe game with a scoreboard, reset, and exit options.
 
