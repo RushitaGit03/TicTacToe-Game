@@ -26,7 +26,7 @@ It’s a simple two-player Tic Tac Toe game with a scoreboard, reset, and exit o
 ---
 
 ## 📸 Screenshot
-![Game Screenshot](TicTacToe-SS.jpg)
+![Game Screenshot](TicTacToe SS.jpg)
 
 ---
 
